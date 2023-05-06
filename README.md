@@ -10,7 +10,11 @@
 
 ### Hi there 👋
 
-- :telescope: I’m a...
+- :telescope: I’m a Medical Physics gradute and have recently completed a Data Analysis programme with the University of Birmingham. I am eager to apply my scientific expertise with analytical and technical skills.
+
+Here you will find my projects and code samples. 
+
+Thank you for visiting!
 
 - :seedling: Exploring...
 
