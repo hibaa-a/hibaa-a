@@ -8,19 +8,21 @@
   </a>
 </div>
 
-### 👋 Hello, I'm Hibaa
+### 👋 Hello, I'm Hibaa (:
 
 I’m a recent Medical Physics gradute who has recently completed a Data Analysis programme with the University of Birmingham. I am passionate about applying my scientific expertise with analytical and technical skills to real-world problems.
 
 #### Skills and Expertise
 
-I am proficient in Python, and have experience with data cleaning, data visualisation, statistical analysis, and machine learning techniques. I am also familiar with SQL and Excel for data management.
+I am proficient in Python, and have experience with data cleaning, data visualisation, statistical analysis, and machine learning techniques. I am also familiar with SQL, Tableau and Excel for data management.
 
 #### Projects and Code Samples
 On my GitHub profile, you'll find a range of data analysis projects and code samples. Here are a few highlights:
 
 Project 1: Crime in the West Midlands | hibaaaldubai/Crime-in-the-West-Midlands (github.com) |  A group project created for showing different visualisations of the data selected. Data was merged and cleaned using Python and Pandas and charts were created using Numpy and 
 Matplotlib. My responsibilities: assisting in the data cleaning, using Google Maps API to plot crime.
+
+
 Project 2: US National Parks | hibaaaldubai/US-National-Parks (github.com) | A Python Flask API powered project including HTML, CSS, and Javascript (D3, Plotly, JSON). Here SQL was used to house the data and create a simple website to showcase the interactive visualisations. I 
 was responsible for producing an interactive bar chart using Plotly, creating the index.html page and producing the presentation.
 
@@ -29,11 +31,7 @@ Feel free to explore my repositories to see more of my work.
 
 Thank you for visiting!
 
-- :seedling: Exploring...
 
-- :zap: In my free time, I..
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -71,18 +69,3 @@ Thank you for visiting!
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hibaaaldubai&" alt="hibaaaldubai" />
 </p>
-
-<!--
-**hibaaaldubai/hibaaaldubai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
