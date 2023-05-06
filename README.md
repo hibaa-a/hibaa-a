@@ -42,6 +42,10 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hibaaaldubai&show_icons=true&locale=en&layout=compact" alt="hibaaaldubai" /></p>
 
