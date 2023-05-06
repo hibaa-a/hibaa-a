@@ -8,11 +8,24 @@
   </a>
 </div>
 
-### Hi there 👋
+### 👋 Hello, I'm Hibaa
 
-- :telescope: I’m a Medical Physics gradute and have recently completed a Data Analysis programme with the University of Birmingham. I am eager to apply my scientific expertise with analytical and technical skills.
+I’m a recent Medical Physics gradute who has recently completed a Data Analysis programme with the University of Birmingham. I am passionate about applying my scientific expertise with analytical and technical skills to real-world problems.
 
-Here you will find my projects and code samples. 
+#### Skills and Expertise
+
+I am proficient in Python, and have experience with data cleaning, data visualisation, statistical analysis, and machine learning techniques. I am also familiar with SQL and Excel for data management.
+
+#### Projects and Code Samples
+On my GitHub profile, you'll find a range of data analysis projects and code samples. Here are a few highlights:
+
+Project 1: Crime in the West Midlands | hibaaaldubai/Crime-in-the-West-Midlands (github.com) |  A group project created for showing different visualisations of the data selected. Data was merged and cleaned using Python and Pandas and charts were created using Numpy and 
+Matplotlib. My responsibilities: assisting in the data cleaning, using Google Maps API to plot crime.
+Project 2: US National Parks | hibaaaldubai/US-National-Parks (github.com) | A Python Flask API powered project including HTML, CSS, and Javascript (D3, Plotly, JSON). Here SQL was used to house the data and create a simple website to showcase the interactive visualisations. I 
+was responsible for producing an interactive bar chart using Plotly, creating the index.html page and producing the presentation.
+
+Feel free to explore my repositories to see more of my work.
+
 
 Thank you for visiting!
 
