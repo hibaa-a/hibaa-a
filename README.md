@@ -50,10 +50,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hibaaaldubai&show_icons=true&locale=en&layout=compact" alt="hibaaaldubai" /></p>
 
 <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hibaaaldubai&show_icons=true&locale=en" alt="hibaaaldubai" />
-</p>
+</p-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hibaaaldubai&" alt="hibaaaldubai" />
-</p-->
+</p>
 
 <!--
 **hibaaaldubai/hibaaaldubai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
