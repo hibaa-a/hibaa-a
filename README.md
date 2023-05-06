@@ -20,7 +20,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -42,9 +42,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hibaaaldubai&show_icons=true&locale=en&layout=compact" alt="hibaaaldubai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hibaaaldubai&show_icons=true&locale=en" alt="hibaaaldubai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hibaaaldubai&show_icons=true&locale=en" alt="hibaaaldubai" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hibaaaldubai&" alt="hibaaaldubai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hibaaaldubai&" alt="hibaaaldubai" />
+</p>
 
 <!--
 **hibaaaldubai/hibaaaldubai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
