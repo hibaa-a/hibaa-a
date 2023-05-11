@@ -8,9 +8,9 @@
   </a>
 </div>
 
-### 👋 Hello, I'm Hibaa (:
+### 👋 Hello, I'm Hibaa :)
 
-I’m a recent Medical Physics gradute who has recently completed a Data Analysis programme with the University of Birmingham. I am passionate about applying my scientific expertise with analytical and technical skills to real-world problems.
+I’m a Medical Physics gradute who has recently completed a Data Analysis programme with the University of Birmingham. I am passionate about applying my scientific expertise with analytical and technical skills to real-world problems.
 
 #### Skills and Expertise
 
