@@ -10,14 +10,7 @@
 
 ### 👋 Hello, I'm Hibaa :)
 
-I’m a Medical Physics gradute who has recently completed a Data Analysis programme with the University of Birmingham. I am passionate about applying my scientific expertise with analytical and technical skills to real-world problems.
-
-#### Skills and Expertise
-
-I am proficient in Python, and have experience with data cleaning, data visualisation, statistical analysis, and machine learning techniques. I am also familiar with SQL, Tableau and Excel for data management.
-
-#### Projects and Code Samples
-On my GitHub profile, you'll find a range of data analysis projects and code samples. Here are a few highlights:
+Here, you'll find a range ofprojects and code samples. Here are a few highlights:
 
 Project 1: Crime in the West Midlands | https://github.com/hibaaaldubai/Crime-in-the-West-Midlands |  A group project created for showing different visualisations of the data selected. Data was merged and cleaned using Python and Pandas and charts were created using Numpy and 
 Matplotlib. My responsibilities: assisting in the data cleaning, using Google Maps API to plot crime.
