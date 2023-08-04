@@ -8,7 +8,7 @@
   </a>
 </div>
 
-### 👋 Hello, I'm Hibaa :)
+### 👋 Hello, I'm Hiba :)
 
 Here, you'll find a range ofprojects and code samples. Here are a few highlights:
 
