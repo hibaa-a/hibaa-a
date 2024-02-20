@@ -12,7 +12,7 @@
 
 Here, you'll find a range of projects and code samples. Here are a few highlights:
 
-Project 1: Crime in the West Midlands | https://github.com/hibaaaldubai/Crime-in-the-West-Midlands |  A group project created for showing different visualisations of the data selected. Data was merged and cleaned using Python and Pandas and charts were created using Numpy and 
+Project 1: Crime in the West Midlands | [https://github.com/hibaaaldubai/Crime-in-the-West-Midlands](https://github.com/hibaa-a/Crime-in-the-West-Midlands) |  A group project created for showing different visualisations of the data selected. Data was merged and cleaned using Python and Pandas and charts were created using Numpy and 
 Matplotlib. My responsibilities: assisting in the data cleaning, using Google Maps API to plot crime.
 
 
